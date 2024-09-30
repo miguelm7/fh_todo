@@ -1,4 +1,4 @@
-/.sesskey
-/.venv
-/__pycache__
-/data
+*.sesskey
+*.pyc
+*.venv
+*.db
