@@ -1,0 +1,4 @@
+*.seskey
+*.pyc
+*.venv
+*.db
